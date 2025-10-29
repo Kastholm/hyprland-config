@@ -1,0 +1,6 @@
+2025/10/29-15:22:44.333 5 Reusing MANIFEST /home/marc/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/10/29-15:22:44.335 5 Recovering log #3
+2025/10/29-15:22:44.335 5 Reusing old log /home/marc/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2025/10/29-15:45:39.463 7 Level-0 table #5: started
+2025/10/29-15:45:39.468 7 Level-0 table #5: 19226 bytes OK
+2025/10/29-15:45:39.472 7 Delete type=0 #3
